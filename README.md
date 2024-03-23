@@ -9,6 +9,7 @@ The data the model will deal with are comments from an e-commerce company. The c
 
 ## Data Soruce:
 The data set is from Kaggle
+
 Link: https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
 
 ** The vanishing gradient problem occurs when the gradient becomes very small after being backpropagated many times. They become so small that they more or less "vanish".
